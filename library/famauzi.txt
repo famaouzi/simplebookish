@@ -1,0 +1,11 @@
+{'Name': 'A Brief History of Time: From Big Bang to Black Holes', 'Author': 'Stephen Hawking', 'Genre': 'Science', 'Publisher': 'Transworld', 'Year': '2009'}
+{'Name': 'Angels & Demons', 'Author': 'Dan Brown', 'Genre': 'Mystery', 'Publisher': '-', 'Year': '2000'}
+{'Name': 'Fahrenheit 451 (Flamingo Modern Classics)', 'Author': 'Ray Bradbury', 'Genre': 'Science Fiction', 'Publisher': 'Harper', 'Year': '2013'}
+{'Name': 'Harry Potter and the Goblet of Fire', 'Author': 'J. K. Rowling', 'Genre': 'Fantasy', 'Publisher': 'Bloomsbury', 'Year': '2000'}
+{'Name': "Harry Potter and the Philosopher's Stone", 'Author': 'J. K. Rowling', 'Genre': 'Fantasy', 'Publisher': 'Bloomsbury', 'Year': '1997'}
+{'Name': 'Old Man and the Sea', 'Author': 'Ernest Hemingway', 'Genre': 'Fiction', 'Publisher': 'Grapevine', 'Year': '2017'}
+{'Name': 'The Da Vinci Code', 'Author': 'Dan Brown', 'Genre': 'Mystery', 'Publisher': 'Transworld', 'Year': '2003'}
+{'Name': 'The Fault in Our Stars', 'Author': 'John Green', 'Genre': 'Young Adult', 'Publisher': 'Dutton Books', 'Year': '2012'}
+{'Name': 'The Hobbit', 'Author': 'J. R. R. Tolkien', 'Genre': 'Fantasy', 'Publisher': 'Allen & Unwin', 'Year': '1937'}
+{'Name': 'The Hunger Games', 'Author': 'Suzanne Collins', 'Genre': 'Fiction', 'Publisher': 'Scholastic Press', 'Year': '2008'}
+{'Name': 'The Lord of the Rings', 'Author': 'J. R. R. Tolkien', 'Genre': 'Fantasy', 'Publisher': 'Allen & Unwin', 'Year': '1955'}
